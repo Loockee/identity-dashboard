@@ -190,7 +190,7 @@ export function IdentityForm(props) {
           })(
             <Input
               prefix={<Icon type="home" style={{ color: "rgba(0,0,0,.25)" }} />}
-              placeholder="Passport number"
+              placeholder="Street name"
             />
           )}
         </Form.Item>
