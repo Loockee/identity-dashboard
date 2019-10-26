@@ -22,3 +22,7 @@
 #     "email": "angelita@rueckerrohan.co"
 #
 ```
+
+## TODOs
+
+- [ ] Suppress warning: `onRowClick is deprecated, please use onRow instead`
